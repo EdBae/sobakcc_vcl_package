@@ -7,6 +7,7 @@ sobakcc vcl package for DELPHI
 
 델파이 7에서 팩키지 등록함.
 
+![](sobakcc_vcl.gif)
 
 **[컨트롤 리스트]**
 
